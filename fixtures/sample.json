@@ -1,5 +1,30 @@
 {
   "说明": "本地合成演练资料",
-  "业务对象": "湖仓压实的快照租约与分区回收",
-  "记录": []
+  "业务对象": "科研样本共享的借用账本与索引回收",
+  "记录": [
+    {
+      "sample_id": "SM-1",
+      "project": "P-1",
+      "object": "o-7",
+      "borrow_from": "2026-10-11",
+      "borrow_to": "2026-10-20",
+      "license": "L1"
+    },
+    {
+      "sample_id": "SM-1",
+      "project": "P-2",
+      "object": "o-7",
+      "borrow_from": "2026-10-12",
+      "borrow_to": "2026-10-18",
+      "license": "L2"
+    },
+    {
+      "sample_id": "SM-2",
+      "project": "P-1",
+      "object": "o-9",
+      "borrow_from": "2026-10-11",
+      "borrow_to": "2026-10-15",
+      "license": "L1"
+    }
+  ]
 }
